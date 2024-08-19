@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Tooltip } from "react-ui-essentials";
-import Poster from "./Components/Poster/Poster";
+import Poster from "./components/Poster/Poster";
 import FootPrint from "./Components/FootPrint/FootPrint";
 import IndianFlag from "./Components/FootPrint/IndianFlag";
 import { products } from "./data/products";
