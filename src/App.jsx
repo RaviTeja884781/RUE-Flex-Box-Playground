@@ -1,11 +1,11 @@
 import React from "react";
 import { Box, Tooltip } from "react-ui-essentials";
 import Poster from "./components/Poster/Poster";
-import FootPrint from "./Components/FootPrint/FootPrint";
-import IndianFlag from "./Components/FootPrint/IndianFlag";
+import FootPrint from "./components/FootPrint/FootPrint";
+import IndianFlag from "./components/FootPrint/IndianFlag";
 import { products } from "./data/products";
-import ProductList from "./Components/ProductList/ProductList";
-import FlexboxPlayGround from "./Components/FlexboxController/FlexboxPlayGround";
+import ProductList from "./components/ProductList/ProductList";
+import FlexboxPlayGround from "./components/FlexboxController/FlexboxPlayGround";
 
 function App() {
   return (
