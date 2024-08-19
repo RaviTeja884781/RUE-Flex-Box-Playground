@@ -1,0 +1,6 @@
+.rue_flex_box_container {
+    display: flex !important;
+    justify-content: space-between;
+}
+
+
